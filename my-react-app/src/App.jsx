@@ -34,7 +34,7 @@ const sumbitHandler=(e)=>
     fetch('https://myanimelist.p.rapidapi.com/v2/anime/search?q='+query+'&n=20&genre=1',{
 	  "method": "GET",
 	  "headers": {
-		'x-rapidapi-key': 'b8c025b4d0msh8bfc6079fcfdb1dp18ab0ejsnabf8eaf28d57',
+		'x-rapidapi-key': '76469a664dmsh0a455d0ab62c58bp1c6371jsn0c6434517fd8',
 		'x-rapidapi-host': 'myanimelist.p.rapidapi.com'
 	  }
 })
